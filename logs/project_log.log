@@ -1,0 +1,247 @@
+2025-09-29 01:46:59 | INFO | {'message': 'I just found travel! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-29 01:46:59', 'category': 'travel', 'sentiment': 0.55, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-29 01:47:04 | INFO | {'message': 'I just found a movie! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-29 01:47:04', 'category': 'entertainment', 'sentiment': 0.34, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-29 01:47:10 | INFO | {'message': 'I just loved an app! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:47:10', 'category': 'other', 'sentiment': 0.44, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:47:15 | INFO | {'message': 'I just shared recipe! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:47:15', 'category': 'food', 'sentiment': 0.53, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-29 01:47:20 | INFO | {'message': 'I just saw recipe! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:47:20', 'category': 'food', 'sentiment': 0.81, 'keyword_mentioned': 'recipe', 'message_length': 32}
+2025-09-29 01:47:25 | INFO | {'message': 'I just shared JavaScript! It was funny.', 'author': 'Bob', 'timestamp': '2025-09-29 01:47:25', 'category': 'tech', 'sentiment': 0.1, 'keyword_mentioned': 'JavaScript', 'message_length': 39}
+2025-09-29 01:47:30 | INFO | {'message': 'I just tried a meme! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-29 01:47:30', 'category': 'humor', 'sentiment': 0.68, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-29 01:47:35 | INFO | {'message': 'I just found a trick! It was funny.', 'author': 'Bob', 'timestamp': '2025-09-29 01:47:35', 'category': 'other', 'sentiment': 0.25, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-29 01:47:40 | INFO | {'message': 'I just found a trick! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:47:40', 'category': 'other', 'sentiment': 0.25, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:47:45 | INFO | {'message': 'I just loved recipe! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-29 01:47:45', 'category': 'food', 'sentiment': 0.9, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-29 01:47:50 | INFO | {'message': 'I just found game! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:47:50', 'category': 'gaming', 'sentiment': 0.22, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-29 01:47:55 | INFO | {'message': 'I just shared an app! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:47:55', 'category': 'other', 'sentiment': 0.87, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-29 01:48:00 | INFO | {'message': 'I just loved Python! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:48:00', 'category': 'tech', 'sentiment': 0.46, 'keyword_mentioned': 'Python', 'message_length': 36}
+2025-09-29 01:48:05 | INFO | {'message': 'I just tried JavaScript! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-29 01:48:05', 'category': 'tech', 'sentiment': 0.84, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-29 01:48:10 | INFO | {'message': 'I just found JavaScript! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-29 01:48:10', 'category': 'tech', 'sentiment': 0.29, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-29 01:48:15 | INFO | {'message': 'I just found recipe! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-29 01:48:15', 'category': 'food', 'sentiment': 0.92, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-29 01:48:20 | INFO | {'message': 'I just found travel! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:48:20', 'category': 'travel', 'sentiment': 0.62, 'keyword_mentioned': 'travel', 'message_length': 37}
+2025-09-29 01:48:25 | INFO | {'message': 'I just saw Python! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-29 01:48:25', 'category': 'tech', 'sentiment': 0.93, 'keyword_mentioned': 'Python', 'message_length': 32}
+2025-09-29 01:48:30 | INFO | {'message': 'I just shared game! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-29 01:48:30', 'category': 'gaming', 'sentiment': 0.42, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-29 01:48:35 | INFO | {'message': 'I just found Python! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-29 01:48:35', 'category': 'tech', 'sentiment': 0.5, 'keyword_mentioned': 'Python', 'message_length': 36}
+2025-09-29 01:48:40 | INFO | {'message': 'I just saw game! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:48:40', 'category': 'gaming', 'sentiment': 0.17, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-29 01:48:45 | INFO | {'message': 'I just loved game! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-29 01:48:45', 'category': 'gaming', 'sentiment': 0.72, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-29 01:48:50 | INFO | {'message': 'I just shared a trick! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:48:50', 'category': 'other', 'sentiment': 0.46, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:48:55 | INFO | {'message': 'I just tried a trick! It was exciting.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:48:55', 'category': 'other', 'sentiment': 0.42, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-29 01:49:00 | INFO | {'message': 'I just tried a trick! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-29 01:49:00', 'category': 'other', 'sentiment': 0.14, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:49:05 | INFO | {'message': 'I just found game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-29 01:49:05', 'category': 'gaming', 'sentiment': 0.1, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-29 01:49:10 | INFO | {'message': 'I just shared a movie! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-29 01:49:10', 'category': 'entertainment', 'sentiment': 0.44, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-29 01:49:15 | INFO | {'message': 'I just found JavaScript! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-29 01:49:15', 'category': 'tech', 'sentiment': 0.56, 'keyword_mentioned': 'JavaScript', 'message_length': 40}
+2025-09-29 01:49:20 | INFO | {'message': 'I just saw recipe! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-29 01:49:20', 'category': 'food', 'sentiment': 0.07, 'keyword_mentioned': 'recipe', 'message_length': 33}
+2025-09-29 01:49:25 | INFO | {'message': 'I just tried game! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-29 01:49:25', 'category': 'gaming', 'sentiment': 0.52, 'keyword_mentioned': 'game', 'message_length': 33}
+2025-09-29 01:49:30 | INFO | {'message': 'I just tried a meme! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-29 01:49:30', 'category': 'humor', 'sentiment': 0.95, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-29 01:49:35 | INFO | {'message': 'I just loved recipe! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-29 01:49:35', 'category': 'food', 'sentiment': 0.28, 'keyword_mentioned': 'recipe', 'message_length': 34}
+2025-09-29 01:49:40 | INFO | {'message': 'I just loved game! It was amazing.', 'author': 'Alice', 'timestamp': '2025-09-29 01:49:40', 'category': 'gaming', 'sentiment': 0.48, 'keyword_mentioned': 'game', 'message_length': 34}
+2025-09-29 01:49:45 | INFO | {'message': 'I just found a movie! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-29 01:49:45', 'category': 'entertainment', 'sentiment': 0.88, 'keyword_mentioned': 'movie', 'message_length': 35}
+2025-09-29 01:49:50 | INFO | {'message': 'I just shared an app! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:49:50', 'category': 'other', 'sentiment': 0.39, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:49:55 | INFO | {'message': 'I just saw travel! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-29 01:49:55', 'category': 'travel', 'sentiment': 0.48, 'keyword_mentioned': 'travel', 'message_length': 35}
+2025-09-29 01:50:00 | INFO | {'message': 'I just tried a story! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-29 01:50:00', 'category': 'other', 'sentiment': 0.26, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-29 01:50:05 | INFO | {'message': 'I just loved an app! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:05', 'category': 'other', 'sentiment': 0.43, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-29 01:50:10 | INFO | {'message': 'I just found an app! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:10', 'category': 'other', 'sentiment': 0.55, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:50:15 | INFO | {'message': 'I just found game! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:15', 'category': 'gaming', 'sentiment': 0.28, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-29 01:50:20 | INFO | {'message': 'I just shared recipe! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:20', 'category': 'food', 'sentiment': 0.96, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-29 01:50:25 | INFO | {'message': 'I just found JavaScript! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:50:25', 'category': 'tech', 'sentiment': 0.36, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-29 01:50:30 | INFO | {'message': 'I just tried game! It was funny.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:30', 'category': 'gaming', 'sentiment': 0.48, 'keyword_mentioned': 'game', 'message_length': 32}
+2025-09-29 01:50:35 | INFO | {'message': 'I just shared a story! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:50:35', 'category': 'other', 'sentiment': 0.03, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:50:40 | INFO | {'message': 'I just loved a story! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:50:40', 'category': 'other', 'sentiment': 0.85, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-29 01:50:45 | INFO | {'message': 'I just loved a trick! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:45', 'category': 'other', 'sentiment': 0.19, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:50:50 | INFO | {'message': 'I just loved a story! It was boring.', 'author': 'Alice', 'timestamp': '2025-09-29 01:50:50', 'category': 'other', 'sentiment': 0.29, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:50:55 | INFO | {'message': 'I just tried a movie! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-29 01:50:55', 'category': 'entertainment', 'sentiment': 0.2, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-29 01:51:00 | INFO | {'message': 'I just tried JavaScript! It was weird.', 'author': 'Bob', 'timestamp': '2025-09-29 01:51:00', 'category': 'tech', 'sentiment': 0.99, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-29 01:51:05 | INFO | {'message': 'I just found a trick! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:51:05', 'category': 'other', 'sentiment': 0.77, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:51:10 | INFO | {'message': 'I just shared a trick! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-29 01:51:10', 'category': 'other', 'sentiment': 0.14, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:51:15 | INFO | {'message': 'I just loved JavaScript! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:51:15', 'category': 'tech', 'sentiment': 0.23, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-29 01:51:20 | INFO | {'message': 'I just found recipe! It was amazing.', 'author': 'Eve', 'timestamp': '2025-09-29 01:51:20', 'category': 'food', 'sentiment': 0.72, 'keyword_mentioned': 'recipe', 'message_length': 36}
+2025-09-29 01:51:25 | INFO | {'message': 'I just saw a story! It was boring.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:51:25', 'category': 'other', 'sentiment': 0.93, 'keyword_mentioned': 'other', 'message_length': 34}
+2025-09-29 01:51:30 | INFO | {'message': 'I just saw travel! It was weird.', 'author': 'Alice', 'timestamp': '2025-09-29 01:51:30', 'category': 'travel', 'sentiment': 0.88, 'keyword_mentioned': 'travel', 'message_length': 32}
+2025-09-29 01:51:35 | INFO | {'message': 'I just shared an app! It was weird.', 'author': 'Eve', 'timestamp': '2025-09-29 01:51:35', 'category': 'other', 'sentiment': 0.07, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-29 01:51:40 | INFO | {'message': 'I just tried JavaScript! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-29 01:51:40', 'category': 'tech', 'sentiment': 0.07, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-29 01:51:45 | INFO | {'message': 'I just loved a story! It was exciting.', 'author': 'Alice', 'timestamp': '2025-09-29 01:51:45', 'category': 'other', 'sentiment': 0.96, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-29 01:51:50 | INFO | {'message': 'I just tried JavaScript! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:51:50', 'category': 'tech', 'sentiment': 0.04, 'keyword_mentioned': 'JavaScript', 'message_length': 41}
+2025-09-29 01:51:55 | INFO | {'message': 'I just saw an app! It was weird.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:51:55', 'category': 'other', 'sentiment': 0.13, 'keyword_mentioned': 'other', 'message_length': 32}
+2025-09-29 01:52:00 | INFO | {'message': 'I just tried JavaScript! It was funny.', 'author': 'Bob', 'timestamp': '2025-09-29 01:52:00', 'category': 'tech', 'sentiment': 0.85, 'keyword_mentioned': 'JavaScript', 'message_length': 38}
+2025-09-29 01:52:05 | INFO | {'message': 'I just saw recipe! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:52:05', 'category': 'food', 'sentiment': 0.85, 'keyword_mentioned': 'recipe', 'message_length': 35}
+2025-09-29 01:52:10 | INFO | {'message': 'I just saw a trick! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:52:10', 'category': 'other', 'sentiment': 0.86, 'keyword_mentioned': 'other', 'message_length': 33}
+2025-09-29 01:52:15 | INFO | {'message': 'I just loved recipe! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:52:15', 'category': 'food', 'sentiment': 0.42, 'keyword_mentioned': 'recipe', 'message_length': 37}
+2025-09-29 01:52:20 | INFO | {'message': 'I just loved a movie! It was amazing.', 'author': 'Bob', 'timestamp': '2025-09-29 01:52:20', 'category': 'entertainment', 'sentiment': 0.08, 'keyword_mentioned': 'movie', 'message_length': 37}
+2025-09-29 01:52:25 | INFO | {'message': 'I just saw recipe! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:52:25', 'category': 'food', 'sentiment': 0.87, 'keyword_mentioned': 'recipe', 'message_length': 32}
+2025-09-29 01:52:30 | INFO | {'message': 'I just found an app! It was exciting.', 'author': 'Bob', 'timestamp': '2025-09-29 01:52:30', 'category': 'other', 'sentiment': 0.44, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:52:35 | INFO | {'message': 'I just shared an app! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:52:35', 'category': 'other', 'sentiment': 0.49, 'keyword_mentioned': 'other', 'message_length': 37}
+2025-09-29 01:52:40 | INFO | {'message': 'I just saw a trick! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-29 01:52:40', 'category': 'other', 'sentiment': 0.76, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:52:45 | INFO | {'message': 'I just loved a story! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-29 01:52:45', 'category': 'other', 'sentiment': 0.81, 'keyword_mentioned': 'other', 'message_length': 38}
+2025-09-29 01:52:50 | INFO | {'message': 'I just shared a meme! It was exciting.', 'author': 'Eve', 'timestamp': '2025-09-29 01:52:50', 'category': 'humor', 'sentiment': 0.09, 'keyword_mentioned': 'meme', 'message_length': 38}
+2025-09-29 01:52:55 | INFO | {'message': 'I just shared a trick! It was funny.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:52:55', 'category': 'other', 'sentiment': 0.1, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:53:00 | INFO | {'message': 'I just found a story! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-29 01:53:00', 'category': 'other', 'sentiment': 0.01, 'keyword_mentioned': 'other', 'message_length': 36}
+2025-09-29 01:53:05 | INFO | {'message': 'I just loved a meme! It was amazing.', 'author': 'Charlie', 'timestamp': '2025-09-29 01:53:05', 'category': 'humor', 'sentiment': 0.03, 'keyword_mentioned': 'meme', 'message_length': 36}
+2025-09-29 01:53:10 | INFO | {'message': 'I just found Python! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-29 01:53:10', 'category': 'tech', 'sentiment': 0.16, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-29 01:53:15 | INFO | {'message': 'I just found a meme! It was funny.', 'author': 'Eve', 'timestamp': '2025-09-29 01:53:15', 'category': 'humor', 'sentiment': 0.77, 'keyword_mentioned': 'meme', 'message_length': 34}
+2025-09-29 01:53:20 | INFO | {'message': 'I just tried an app! It was boring.', 'author': 'Bob', 'timestamp': '2025-09-29 01:53:20', 'category': 'other', 'sentiment': 0.81, 'keyword_mentioned': 'other', 'message_length': 35}
+2025-09-29 01:53:25 | INFO | {'message': 'I just loved Python! It was boring.', 'author': 'Eve', 'timestamp': '2025-09-29 01:53:25', 'category': 'tech', 'sentiment': 0.08, 'keyword_mentioned': 'Python', 'message_length': 35}
+2025-09-29 01:56:43 | INFO | Logging to file: logs/project_log.log
+2025-09-29 01:56:43 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 01:56:43 | INFO | Starting consumer_moses (Kafka → SQLite, topic categorization).
+2025-09-29 01:56:43 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 01:56:43 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 01:56:43 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 01:56:43 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 01:56:43 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 01:56:43 | INFO | SUCCESS: Read environment variables.
+2025-09-29 01:56:43 | INFO | Old DB removed for a clean start.
+2025-09-29 01:56:43 | INFO | SUCCESS: Database initialized at /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 01:56:43 | INFO | Called consume_messages_from_kafka()
+2025-09-29 01:56:43 | INFO | Kafka broker address: localhost:9092
+2025-09-29 01:56:43 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 01:56:43 | INFO | Kafka broker address: localhost:9092
+2025-09-29 01:56:43 | INFO | Creating Kafka consumer. Topic='buzzline' and group ID='buzz_group'.
+2025-09-29 01:56:44 | INFO | Kafka consumer created successfully.
+2025-09-29 01:56:44 | INFO | Consuming messages now...
+2025-09-29 02:07:17 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:07:17 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:07:17 | INFO | Starting Producer to run continuously.
+2025-09-29 02:07:17 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:07:17 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:07:17 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:07:17 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:07:17 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:07:17 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:07:17 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:07:17 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:07:17 | INFO | Deleted existing live data file.
+2025-09-29 02:07:17 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:07:18 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 02:07:18 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:07:18 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:07:18 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:07:18 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:07:18 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
+2025-09-29 02:07:30 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:07:30 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:07:30 | INFO | Starting Producer to run continuously.
+2025-09-29 02:07:30 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:07:30 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:07:30 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:07:30 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:07:30 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:07:30 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:07:30 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:07:30 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:07:30 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:07:31 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 02:07:31 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:07:31 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:07:31 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:07:31 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:07:31 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
+2025-09-29 02:07:38 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:07:38 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:07:38 | INFO | Starting consumer_moses (Kafka → SQLite, topic via 'category').
+2025-09-29 02:07:38 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:07:38 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 02:08:17 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:08:17 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:08:17 | INFO | Starting consumer_moses (Kafka → SQLite, topic via 'category').
+2025-09-29 02:08:17 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:08:17 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 02:08:17 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:08:17 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:08:17 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 02:08:17 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:08:17 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/topics_moses.sqlite
+2025-09-29 02:08:17 | INFO | SUCCESS: Database initialized at /Users/USER/buzzline-05-moses/data/topics_moses.sqlite
+2025-09-29 02:08:17 | INFO | Called consume_messages_from_kafka()
+2025-09-29 02:08:17 | INFO |   topic='buzzline', group='buzz_group', sqlite_path='/Users/USER/buzzline-05-moses/data/topics_moses.sqlite'
+2025-09-29 02:08:17 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:08:17 | INFO | Creating Kafka consumer. Topic='buzzline' and group ID='buzz_group'.
+2025-09-29 02:08:17 | INFO | Kafka consumer created successfully.
+2025-09-29 02:08:17 | INFO | Kafka consumer created successfully.
+2025-09-29 02:08:17 | INFO | Consuming messages now...
+2025-09-29 02:08:51 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:08:51 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:08:51 | INFO | Starting consumer_moses (Kafka → SQLite, topic via 'category').
+2025-09-29 02:08:51 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:08:51 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 02:08:51 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:08:51 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:08:51 | INFO | BUZZ_CONSUMER_GROUP_ID: buzz_group
+2025-09-29 02:08:51 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:08:51 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/topics_moses.sqlite
+2025-09-29 02:08:51 | INFO | Old topics_moses.sqlite removed for a clean start.
+2025-09-29 02:08:51 | INFO | SUCCESS: Database initialized at /Users/USER/buzzline-05-moses/data/topics_moses.sqlite
+2025-09-29 02:08:51 | INFO | Called consume_messages_from_kafka()
+2025-09-29 02:08:51 | INFO |   topic='buzzline', group='buzz_group', sqlite_path='/Users/USER/buzzline-05-moses/data/topics_moses.sqlite'
+2025-09-29 02:08:51 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:08:51 | INFO | Creating Kafka consumer. Topic='buzzline' and group ID='buzz_group'.
+2025-09-29 02:08:51 | INFO | Kafka consumer created successfully.
+2025-09-29 02:08:51 | INFO | Kafka consumer created successfully.
+2025-09-29 02:08:51 | INFO | Consuming messages now...
+2025-09-29 02:10:01 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:10:01 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:10:01 | INFO | Starting Producer to run continuously.
+2025-09-29 02:10:01 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:10:01 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:10:01 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:10:01 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:10:01 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:10:01 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:10:01 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:10:01 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:10:01 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:10:02 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 02:10:02 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:10:02 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:10:02 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:10:02 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:10:02 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
+2025-09-29 02:10:02 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:10:02 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:10:02 | INFO | Starting Producer to run continuously.
+2025-09-29 02:10:02 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:10:02 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:10:02 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:10:02 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:10:02 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:10:02 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:10:02 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:10:02 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:10:02 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:10:03 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 02:10:03 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:10:03 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:10:03 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:10:03 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:10:03 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
+2025-09-29 02:16:53 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:16:53 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:16:53 | INFO | Starting Producer to run continuously.
+2025-09-29 02:16:53 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:16:53 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:16:53 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:16:53 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:16:53 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:16:53 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:16:53 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:16:53 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:16:53 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:16:54 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'tPG9gO-uSd-659Z7J_ehzg', 'controller_id': 0}
+2025-09-29 02:16:54 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:16:54 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:16:54 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:16:54 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:16:54 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
+2025-09-29 02:18:20 | INFO | Logging to file: logs/project_log.log
+2025-09-29 02:18:20 | INFO | Log sanitization enabled, personal info removed
+2025-09-29 02:18:21 | INFO | Starting Producer to run continuously.
+2025-09-29 02:18:21 | INFO | Use Ctrl+C to stop.
+2025-09-29 02:18:21 | INFO | MESSAGE_INTERVAL_SECONDS: 5
+2025-09-29 02:18:21 | INFO | BUZZ_TOPIC: buzzline
+2025-09-29 02:18:21 | INFO | KAFKA_BROKER_ADDRESS: 127.0.0.1:9092
+2025-09-29 02:18:21 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:18:21 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 02:18:21 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 02:18:21 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 02:18:21 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:18:21 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': 'tPG9gO-uSd-659Z7J_ehzg', 'controller_id': 0}
+2025-09-29 02:18:21 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 02:18:21 | INFO | Kafka broker address: localhost:9092
+2025-09-29 02:18:21 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 02:18:21 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 02:18:21 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.

@@ -1,0 +1,12 @@
+2025-09-29 01:46:55 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 01:46:55 | INFO | LIVE_DATA_PATH: /Users/USER/buzzline-05-moses/data/project_live.json
+2025-09-29 01:46:55 | INFO | BASE_DATA_DIR: /Users/USER/buzzline-05-moses/data
+2025-09-29 01:46:55 | INFO | SQLITE_PATH: /Users/USER/buzzline-05-moses/data/buzz.sqlite
+2025-09-29 01:46:55 | INFO | Deleted existing live data file.
+2025-09-29 01:46:55 | INFO | Kafka broker address: localhost:9092
+2025-09-29 01:46:55 | INFO | Kafka is ready. Brokers: {'throttle_time_ms': 0, 'brokers': [{'node_id': 0, 'host': 'localhost', 'port': 9092, 'rack': None}], 'cluster_id': '3tyPDy-kRUOnDmQShzIf7A', 'controller_id': 0}
+2025-09-29 01:46:55 | INFO | Kafka producer connected to 127.0.0.1:9092
+2025-09-29 01:46:55 | INFO | Kafka broker address: localhost:9092
+2025-09-29 01:46:56 | INFO | Topic 'buzzline' already exists. Recreating fresh...
+2025-09-29 01:46:56 | INFO | Requested deletion of topic 'buzzline'.
+2025-09-29 01:46:56 | ERROR | Error managing topic 'buzzline': [Error 36] TopicAlreadyExistsError: Request 'CreateTopicsRequest_v3(create_topic_requests=[(topic='buzzline', num_partitions=1, replication_factor=1, replica_assignment=[], configs=[])], timeout=30000, validate_only=False)' failed with response 'CreateTopicsResponse_v3(throttle_time_ms=0, topic_errors=[(topic='buzzline', error_code=36, error_message="Topic 'buzzline' is marked for deletion.")])'.
